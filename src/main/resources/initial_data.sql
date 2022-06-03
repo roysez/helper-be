@@ -2,4 +2,4 @@ INSERT INTO CITY VALUES ('Київ'),('Харків'),('Дніпропетров
 
 INSERT INTO CATEGORY VALUES ('Притулок'),('Їжа'),('Спорядження'),('Авто');
 
-INSERT INTO REQUEST VALUES (1, 'Diana Martyn', 'ХАТА НА НГ', 'шукаю хату на НГ', 'Притулок', 'Київ')
+INSERT INTO REQUEST VALUES (1,  'diana@gmail.com', 'Diana Martyn', 'ХАТА НА НГ', 'шукаю хату на НГ', 'Притулок', 'Київ')

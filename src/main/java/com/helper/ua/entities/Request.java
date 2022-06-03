@@ -17,6 +17,8 @@ public class Request
 
 	private String fullName;
 
+	private String email;
+
 	private String title;
 
 	private String request;
@@ -45,6 +47,16 @@ public class Request
 	public void setFullName(final String fullName)
 	{
 		this.fullName = fullName;
+	}
+
+	public String getEmail()
+	{
+		return email;
+	}
+
+	public void setEmail(final String email)
+	{
+		this.email = email;
 	}
 
 	public String getTitle()
